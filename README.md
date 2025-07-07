@@ -21,7 +21,10 @@ A FiveM resource that adds functional, crackable, and placeable safes to your se
 - [ ] Safe sharing/permissions system
 - [ ] Advanced anti-theft features
 - [ ] Timeout based safe access after successful entry of code/combination (so users don't have to enter code over and over if it's their own safe)
-
+- [ ] Add animations to safe opening, safe removal
+- [ ] return safe as item to inventory on removal config
+- [ ] require item to remove safe config
+- [ ] safe stealing
 ## Dependencies
 
 - QBX Core
