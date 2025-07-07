@@ -376,7 +376,7 @@ export const SafeCracking: React.FC<SafeCrackingProps> = ({ config, onComplete, 
       {/* Header */}
       <div className="text-center mb-6">
         <h2 style={{ fontSize: '24px', fontWeight: 'bold', color: 'white', marginBottom: '8px' }}>Safe Cracking</h2>
-        <div className="flex justify-center items-center text-white-70" style={{ justifyContent: 'space-between' }}>
+        <div className="flex justify-center items-center text-white-70 gap-4">
           <span>Numbers: {currentTarget + 1}/{combination.length}</span>
           <span>Time: {timeLeft}s</span>
         </div>
