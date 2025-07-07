@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+/web/node_modules/
+
+# Build outputs
+/web/dist/
+
+# Environment files
+.env
+.env.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Game specific
+sj_safes_data.json 
